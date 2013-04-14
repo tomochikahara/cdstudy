@@ -37,6 +37,7 @@
                     <p>このWebアプリはGrailsによって構築されています。</p>
                     <p>UIにはTwitter-Bootstrapを使用しています。</p>
                     <p>CDStudyで変更しました。</p>
+                    <p>GitHubから変更を検知するようにしたいです。</p>
 				</div>
 					
 				<div class="row-fluid">
